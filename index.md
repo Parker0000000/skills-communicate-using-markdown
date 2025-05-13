@@ -3,3 +3,6 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [x] create a image
+- [x] add java code block
+- [ ] finish the example
